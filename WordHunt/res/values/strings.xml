@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WordHunt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Sil">Sil</string>
+    <string name="IpUcu">İpucu Ver</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+	<string name="v">V</string>
+	<string name="y">Y</string>
+	<string name="z">Z</string>
+	<string name="w">W</string>
+	<string name="x">X</string>
+	<string name="oyunaBasla"> Oyuna Başla </string>
+	<string name="enYuksekSkor"> Yüksek Skorlar </string>
+	<string name="cikis"> Çıkış </string>
+	<string name="yuksekSkor1"> EN YÜKSEK SKOR</string>
+	<string name="yuksekSkor2"> 2. YÜKSEK SKOR </string>
+	<string name="yuksekSkor3"> 3. YÜKSEK SKOR </string>
+</resources>

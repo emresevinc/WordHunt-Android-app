@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/darker_gray"
+    >
+	
+    <Button
+        android:id="@+id/oyunaBaslaButon"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/black"
+        android:text="@string/oyunaBasla"
+        android:textColor="@android:color/white" />
+    
+    <Button
+        android:id="@+id/yuksekSkorButon"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:background="@android:color/black"
+        android:text="@string/enYuksekSkor"
+        android:textColor="@android:color/white" />
+    
+    <Button
+        android:id="@+id/cikisButon"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:background="@android:color/black"
+        android:text="@string/cikis"
+        android:textColor="@android:color/white" />
+		
+</LinearLayout>
